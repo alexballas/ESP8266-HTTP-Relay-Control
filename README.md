@@ -1,2 +1,2 @@
-# nodemcu_http_relay
-A very simple jquery powered web interface for NodeMCU to control a relay
+# Nodemcu HTTP relay
+A very simple jquery powered web interface for NodeMCU to control a relay on GPIO13(D7).
